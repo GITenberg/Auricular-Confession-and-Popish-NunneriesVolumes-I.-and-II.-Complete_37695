@@ -1,0 +1,31 @@
+_repo: Auricular-Confession-and-Popish-NunneriesVolumes-I.-and-II.-Complete_37695
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hogan, William
+    deathdate: 1848
+    gutenberg_agent_id: '38996'
+    url: http://www.gutenberg.org/2009/agents/38996
+description: ''
+gutenberg_issued: '2011-10-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37695'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Convents -- Controversial literature'
+- !lcsh 'Anti-Catholicism'
+- !lcc 'BX'
+- !lcsh 'Catholic Church -- Controversial literature'
+- !lcsh 'Jesuits -- Controversial Literature'
+- !lcsh 'Confession -- Controversial literature'
+title: 'Auricular Confession and Popish Nunneries
+
+  Volumes I. and II., Complete'
+url: http://www.gutenberg.org/ebooks/37695
